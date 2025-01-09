@@ -2,4 +2,4 @@
 
 
 ## 🌐 Live Demo
-Check out the live version of the portfolio here <a href="https://rithu-event-organization-website.vercel.app" target="_blank">Live Demo</a>
+Check out the live version of the website here <a href="https://rithu-event-organization-website.vercel.app" target="_blank">Live Demo</a>
